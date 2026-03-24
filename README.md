@@ -102,11 +102,7 @@ O notebook segue uma estrutura típica de um fluxo de Machine Learning:
 ```
 project/
 │
-├── Udemy_ml.ipynb
-├── Data/
-│   ├── Books.csv
-│   ├── Ratings.csv   
-│   └── Users.csv         
+├── Udemy_ml.ipynb       
 │
 └── README.md
 ```
